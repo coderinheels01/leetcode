@@ -15,6 +15,10 @@ leetcode/
 ## Usage
 
 ```bash
+# Create and activate virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
 # Install in development mode
 pip install -e .
 
