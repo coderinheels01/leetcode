@@ -1,5 +1,6 @@
 """
 128. Longest Consecutive Sequence
+https://leetcode.com/problems/longest-consecutive-sequence/
 
 Given an unsorted array of integers nums, return the length of the longest
 consecutive sequence.
@@ -49,4 +50,4 @@ if __name__ == "__main__":
     # Example 2
     nums2 = [0, 3, 7, 2, 5, 8, 4, 6, 0, 1]
     print(f"Input: {nums2}")
-    print(f"Output: {sol.longestConsecutive(nums2)}")  # Expected: 9
+    print(f"Output: {sol.longestConsecutive(nums2)}")  # Expected: 
